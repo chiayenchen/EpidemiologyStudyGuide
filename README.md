@@ -5,10 +5,10 @@ with edits from many people
 
 PDF files of version v21.10 and v22.0.1 were provided by Dr. Eleanor J Murray.
 
-### Please see the following DISCLAIMER and a note on IP (also see Preface in the PDF files)
+### Please see the following disclaimer and a note on IP (also see Preface in the PDF files)
 
 DISCLAIMER:  
-There are typos and potentially some conceptual errors in this study guide. If you find any please let us know. We wrote it to help us study for the 2011 Epi written exam and is not intended to supplement or replace any of the coursework at the Harvard School of Public Health. It has not been reviewed or endorsed by any HSPH faculty member. _**Use at your own risk!**
+There are typos and potentially some conceptual errors in this study guide. If you find any please let us know. We wrote it to help us study for the 2011 Epi written exam and is not intended to supplement or replace any of the coursework at the Harvard School of Public Health. It has not been reviewed or endorsed by any HSPH faculty member. _**Use at your own risk!**_
 
 A NOTE ON INTELLECTUAL OWNERSHIP:  
 These documents are made available under a CC-BY-NC 4.0 International license (https://creativecommons.org/licenses/by-nc/4.0/).
